@@ -1,4 +1,4 @@
-# WordPress Plugin Boilerplate
+# Ayopress CV
 
 A standardized, organized, object-oriented foundation for building high-quality WordPress Plugins.
 
