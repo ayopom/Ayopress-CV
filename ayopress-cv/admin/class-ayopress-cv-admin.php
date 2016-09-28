@@ -20,7 +20,7 @@
  * @subpackage Plugin_Name/admin
  * @author     Your Name <email@example.com>
  */
-class Plugin_Name_Admin {
+class Ayopress_CV_Admin {
 
 	/**
 	 * The ID of this plugin.
